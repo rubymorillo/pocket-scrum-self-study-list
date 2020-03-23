@@ -1,5 +1,5 @@
 # The Pocket Scrum Certification Self-Study List 🗂
-A small but formidable list of resources I'm using these resources to prep for the Professional Scrum Master I certification!
+A small but formidable list of resources I'm using to prep for the Professional Scrum Master I certification!
 
 
 ## Free Courses 👩🏽‍🏫
