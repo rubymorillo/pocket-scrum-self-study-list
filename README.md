@@ -17,6 +17,7 @@ A small but formidable list of resources I'm using to prep for the Professional 
 - [Scrum.org Open Assessment](https://www.scrum.org/index.php/open-assessments/scrum-open)
 
 ## Other Study Materials 🔖
+- [Management Plaza Scrum Master Exam Simulator](https://unbored.training/courses/scrum-master-exam-simulator/?pr=oJShLJpkBD==)
 - [Scrum Master Handbook](https://www.slideshare.net/PradeepPapanna/scrum-master-handbook) 
 - [Serious Scrum blog](https://medium.com/serious-scrum)
 - [PSM-I Exam Prep Video](https://www.youtube.com/watch?v=IAOTrBsJsoU)
