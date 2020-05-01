@@ -1,6 +1,12 @@
 # The Pocket Scrum Certification Self-Study List 🗂
 A small but formidable list of resources I'm using to prep for the Professional Scrum Master I certification!
 
+**UPDATE 30 APRIL** I passed the PSM I with a 93%! I've included a study tips section below to share what worked for me:
+
+## Study Tips 👩🏽‍🏫
+- Take the Scrum Open Assessment first. This will help you know where you are and what you need to work on.
+- While the Scrum Guide is the source of truth, use a variety of study resources. I found that some resources explained concepts more clearly than others. The Scrum Training Series videos are highly recommended, as each video uses scenarios to illustrate concepts from the Scrum Guide. (Situational questions do come up in the PSM I exam.)
+- Take the Scrum Open, the quizzes on Mikhail Lapshin's blog, the Volkerdon exam simulator (40 questions free), and the Management Plaza until you consistently score 95 or higher five times in a row. 
 
 ## Free Courses 👩🏽‍🏫
 - [Scrum 101](https://scrum101.com/)
