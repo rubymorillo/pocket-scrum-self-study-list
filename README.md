@@ -6,7 +6,7 @@ A small but formidable list of resources I'm using to prep for the Professional 
 ## Study Tips 👩🏽‍🏫
 - Take the Scrum Open Assessment first. This will help you know where you are and what you need to work on.
 - While the Scrum Guide is the source of truth, use a variety of study resources. I found that some resources explained concepts more clearly than others. The PSM-I Exam Video and the Scrum Training Series videos are highly recommended, as each video uses scenarios to illustrate concepts from the Scrum Guide. (Situational questions do come up in the PSM I exam.)
-- Take the Scrum Open, the quizzes on Mikhail Lapshin's blog, the Volkerdon exam simulator (40 questions free), and the Management Plaza until you consistently score 95 or higher five times in a row. 
+- Take the Scrum Open, the quizzes on Mikhail Lapshin's blog, the Volkerdon exam simulator (40 questions free), and the Management Plaza as many times as you need to until you consistently score a 95 or above five times in a row. 
 
 ## Free Courses 👩🏽‍🏫
 - [Scrum 101](https://scrum101.com/)
