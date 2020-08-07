@@ -1,7 +1,7 @@
 # The Pocket Scrum Certification Self-Study List 🗂
 A small but formidable list of resources I'm using to prep for the Professional Scrum Master I certification!
 
-**UPDATE 30 APRIL** I passed the PSM I with a 93%! I've included a study tips section below to share what worked for me:
+**UPDATE: 30 APRIL 2020** I passed the PSM I with a 93%! I've included a study tips section below to share what worked for me:
 
 ## Study Tips 👩🏽‍🏫
 - Take the Scrum Open Assessment first. This will help you know where you are and what you need to work on.
@@ -30,4 +30,4 @@ A small but formidable list of resources I'm using to prep for the Professional 
 - [PSM Suggested Reading List](https://www.scrum.org/resources/suggested-reading-professional-scrum-master) (Blogs and articles)
 
 ---
-List compiled by [Stephanie Morillo](www.stephaniemorillo.co).
+List compiled by [Stephanie Morillo](http://www.stephaniemorillo.co/links).
