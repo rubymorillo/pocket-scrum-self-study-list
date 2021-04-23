@@ -30,4 +30,4 @@ A small but formidable list of resources I'm using to prep for the Professional 
 - [PSM Suggested Reading List](https://www.scrum.org/resources/suggested-reading-professional-scrum-master) (Blogs and articles)
 
 ---
-List compiled by [Stephanie Morillo](http://www.stephaniemorillo.co/links).
+List compiled by [Stephanie Morillo](http://www.stephaniemorillo.co/links). Found it useful? [Consider becoming a GitHub Sponsor!](https://www.github.com/sponsors/rubymorillo)
